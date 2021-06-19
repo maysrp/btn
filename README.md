@@ -1,5 +1,7 @@
 # btn
 五向导航按键模块 micropython
+![设备图片](https://github.com/maysrp/btn/blob/main/cm.png)
+
 # btn
 五向导航按键模块 micropython
 
@@ -21,7 +23,7 @@
 |SET|21|
 |RST|19|
 
-使用该库时请不要连接*VCC*
+使用该库时请**不要连接VCC**
 
 ```
 import btn
